@@ -1,0 +1,44 @@
+{
+  "Navigation": {
+    "image": "img/melipona.png"
+  },
+  "Header": {
+    "title": "MELIPONA ORGANICS",
+    "paragraph": "Productos artesanales, 100% organicos."
+  },
+  "About": {
+    "paragraph": "Nuestros productos son 100% guatemaltecos, elaborados en distintas áreas rurales del país.",
+    "Why": ["Artesanales", "Guatemaltecos", "Beneficiosos para tu salud"],
+    "Why2": []
+  },
+  "Contact": {
+    "address": "San Pedro La Laguna, Solola",
+    "phone": "+502 5592-1452",
+    "email": "meliponaorganics@gmail.com",
+    "facebook": "https://www.facebook.com/Melipona-Organics-106708592112968",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Productos": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
